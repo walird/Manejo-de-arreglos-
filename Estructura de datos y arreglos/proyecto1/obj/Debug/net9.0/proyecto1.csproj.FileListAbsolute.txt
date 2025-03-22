@@ -1,0 +1,14 @@
+C:\Users\paule\Downloads\Estructura de datos y arreglos\proyecto1\bin\Debug\net9.0\proyecto1.exe
+C:\Users\paule\Downloads\Estructura de datos y arreglos\proyecto1\bin\Debug\net9.0\proyecto1.deps.json
+C:\Users\paule\Downloads\Estructura de datos y arreglos\proyecto1\bin\Debug\net9.0\proyecto1.runtimeconfig.json
+C:\Users\paule\Downloads\Estructura de datos y arreglos\proyecto1\bin\Debug\net9.0\proyecto1.dll
+C:\Users\paule\Downloads\Estructura de datos y arreglos\proyecto1\bin\Debug\net9.0\proyecto1.pdb
+C:\Users\paule\Downloads\Estructura de datos y arreglos\proyecto1\obj\Debug\net9.0\proyecto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paule\Downloads\Estructura de datos y arreglos\proyecto1\obj\Debug\net9.0\proyecto1.AssemblyInfoInputs.cache
+C:\Users\paule\Downloads\Estructura de datos y arreglos\proyecto1\obj\Debug\net9.0\proyecto1.AssemblyInfo.cs
+C:\Users\paule\Downloads\Estructura de datos y arreglos\proyecto1\obj\Debug\net9.0\proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\paule\Downloads\Estructura de datos y arreglos\proyecto1\obj\Debug\net9.0\proyecto1.dll
+C:\Users\paule\Downloads\Estructura de datos y arreglos\proyecto1\obj\Debug\net9.0\refint\proyecto1.dll
+C:\Users\paule\Downloads\Estructura de datos y arreglos\proyecto1\obj\Debug\net9.0\proyecto1.pdb
+C:\Users\paule\Downloads\Estructura de datos y arreglos\proyecto1\obj\Debug\net9.0\proyecto1.genruntimeconfig.cache
+C:\Users\paule\Downloads\Estructura de datos y arreglos\proyecto1\obj\Debug\net9.0\ref\proyecto1.dll
